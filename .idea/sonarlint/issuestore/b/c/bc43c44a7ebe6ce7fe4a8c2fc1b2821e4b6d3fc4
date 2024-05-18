@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´·´â
+^
+java:S1128"CRemove this unused import 'co.edu.uniquindio.Modelos.enums.Estado'.(£†è±øÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+F
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›

@@ -1,0 +1,11 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(—ô°ğøÿÿÿÿ8òØ¨˜ï1J$44db4531-6149-453d-819f-f3ec2002ffcb
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù‘©øÿÿÿÿ8èÜıî1J$61e5bffb-7997-4800-a5b2-d312b6670cad
+i
+java:S1128"GRemove this unused import 'co.edu.uniquindio.Modelos.documentos.Lugar'.(Ï’Üşÿÿÿÿ8‰àª˜ï1
+h
+java:S1128"KRemove this unused import 'co.edu.uniquindio.Modelos.documentos.Moderador'.(û»ã8Šàª˜ï1
+]
+java:S1128";Remove this unused import 'co.edu.uniquindio.dto.LugarDTO'.(Ÿµó¨øÿÿÿÿ8Šàª˜ï1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Šàª˜ï1

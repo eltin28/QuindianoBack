@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷œæ8¶¼Üùî1J$3285b552-d3ce-4ea7-8d40-500864eb2be2
+™	java:S116"WRename this field "Idcomentario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆŞÖ8®ˆÎšï1J$87a52584-bf54-4d34-bca1-7bd759f1a1a8
+‹
+java:S1128"CRemove this unused import 'co.edu.uniquindio.Modelos.enums.Estado'.(£†è±øÿÿÿÿ8ù§Ì™ï1J$67d5cf07-0f45-4136-ac21-9415d782f7c1
+‹
+java:S1128"CRemove this unused import 'org.springframework.data.annotation.Id'.(áŠ¿¸ıÿÿÿÿ8ù§Ì™ï1J$cfb73593-57e7-4391-bafa-a8ff51924e6b
+y
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8µƒí•ï1J$7887aceb-06bf-454d-9ac3-6e29f19995c7
+q
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8µƒí•ï1J$cbc2a1ce-cce6-4a63-97ea-223b7d8bd83f

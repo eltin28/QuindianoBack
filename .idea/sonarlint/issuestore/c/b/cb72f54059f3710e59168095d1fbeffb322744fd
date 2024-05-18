@@ -1,0 +1,6 @@
+
+	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(Èóçşÿÿÿÿ8®ğ»—ï1J$eb84a8de-3449-4d51-9563-bd9210e85295
+™	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áú‡Ğùÿÿÿÿ8“óÚ—ï1J$4b67ebd0-5aee-4851-ba6f-df6b3de29e5f
+™	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ìÆçıÿÿÿÿ8Ù‡á—ï1J$d38ee04c-c542-49c3-abbf-4ab5cbd8e3bb
+™	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®İôúıÿÿÿÿ8Ù¦ã—ï1J$12c92d65-4e05-417d-b16a-e875566575c8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éíä®ûÿÿÿÿ8±ğ»—ï1J$7796d404-61ac-41d3-b6ae-13ff4bd15342

@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷œæ8á«†˜ï1J$2d07e860-b7e4-4a39-a17d-622c72f8482d
+“	java:S116"QRename this field "Codigo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ×œî8ç«†˜ï1J$187946cb-8e68-48bb-ab20-d337a307eaf0
+•	java:S116"SRename this field "Nickname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÖà­8ç«†˜ï1J$7792fa99-aa8a-41fa-9d9f-9c7f1e598176
+“	java:S116"QRename this field "Ciudad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çõ«–8ç«†˜ï1J$2c1261a5-d9bc-4e38-9a49-b11262058a9b
+œ	java:S116"URename this field "FotoPerfil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““¸ùÿÿÿÿ8ç«†˜ï1J$b5119ced-93ec-4e6b-9d64-045e44277acc
+“
+java:S1845"PRename field "Codigo" to prevent any misunderstanding/clash with field "codigo".(Õ×œî8è«†˜ï1J$357e6909-4abf-462b-8065-6e8ed2b77dfe
+„	java:S107'"BConstructor has 13 parameters, which is greater than 7 authorized.(µ‹÷˜8ë«†˜ï1J$e25db7dd-500b-46dc-85bc-e74bfa445258
+q
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ï«†˜ï1J$dd581b56-c574-4b7f-b70f-689417a5c656
