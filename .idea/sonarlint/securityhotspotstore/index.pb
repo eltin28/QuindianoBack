@@ -277,3 +277,8 @@ f
 6src/main/java/co/edu/uniquindio/utils/FiltroToken.java,1\9\190b2021fa7a1c93c5896b9504201bac24ec0e8e
 u
 Esrc/main/java/co/edu/uniquindio/Controladores/ImagenesController.java,1\5\15200b0200232ef682308a7375749f9da7f824f0
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+A
+system.properties,a\5\a5db35984da8ffa0e255c16a2e31ae7b26e7d222
