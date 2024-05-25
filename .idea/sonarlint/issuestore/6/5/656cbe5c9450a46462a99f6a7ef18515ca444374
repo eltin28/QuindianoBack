@@ -1,0 +1,16 @@
+
+ˆ	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ï»±ç8‘ïúŸï1J$57552c9c-30cf-40b6-b809-a4052ba2d631
+	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(şíîàüÿÿÿÿ8‘ïúŸï1J$2c5cd60e-4487-44e4-835b-f38831052543
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(¼ãß¬şÿÿÿÿ8’ïúŸï1J$9dc6af94-c4d0-43ea-ab5c-17f30fe3727a
+	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(ÓÎ™øÿÿÿÿ8’ïúŸï1J$92bbc657-7a3f-47ee-b02b-d356f4b603f5
+ˆ	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(¤¬±¤8’ïúŸï1J$43356734-8094-406f-b7a2-517d718baea4
+	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(ğ®‘´üÿÿÿÿ8’ïúŸï1J$d34a31dd-99b4-49ad-b5d0-c849de4cb8f6
+	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(¶”¬øıÿÿÿÿ8’ïúŸï1J$b7ada80e-f77d-4cca-a5f3-f17514e51134
+	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(ÌÛ¡ûÿÿÿÿ8’ïúŸï1J$15df7796-d6fa-4c19-b01d-f3303c49b995
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éíä®ûÿÿÿÿ8–ïúŸï1J$e6c50c04-3f3c-40d7-935e-1dc752856981
+Ê
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ¤ÏÅøÿÿÿÿ8Çƒƒ ï1J$9b49339b-90aa-4206-81e1-b7facb161b45
+Ê
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰êÉıÿÿÿÿ8Èƒƒ ï1J$cee96bc4-0be0-4076-98e0-9a7560540185
+Ê
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò˜®Øûÿÿÿÿ8Èƒƒ ï1J$413b99d8-942f-4e18-9fa9-b9000a8b8a94
